@@ -1,0 +1,7 @@
+{
+    "SLEEP": 10,
+    "TEXT_REQUEST": "Алмазное бурение",
+    "KEY_PHRASE": "Используемое оборудование Машина стенорезная Alteco WC 5280.",
+    "SLEEP_BEETWEEN_PROXY_FROM": 1200,
+    "SLEEP_BEETWEEN_PROXY_TO": 1200
+}
